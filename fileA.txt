@@ -1,2 +1,1 @@
-Added functionality A.
-
+Added functionality A in master.
